@@ -1,0 +1,32 @@
+.page-content {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    margin-top: 15%;
+}
+
+.auto-margin{
+    margin: auto;
+}
+
+input[type=text]{
+    width:60%;
+    margin: auto;
+    display: block;
+    border-radius: 50px; 
+    border: 1.5px solid #E9E7E7;
+    padding: 10px;
+}
+
+button {
+    margin: 2% 0 0 1%;  
+    border-radius: 10%; 
+    border: none;
+    padding: 10px;
+    background-color: #EFEEED; 
+    color: #646464;
+}
+
+#logo{
+    margin: 0 0 2% 0;
+}
